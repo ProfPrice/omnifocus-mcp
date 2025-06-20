@@ -1,5 +1,5 @@
 {
-  "name": "@your-org/mcp-omnifocus-server",
+  "name": "omnifocus-mcp",
   "version": "1.0.0",
   "description": "MCP server for OmniFocus integration using Omni Automation",
   "type": "module",
